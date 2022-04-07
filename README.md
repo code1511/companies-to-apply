@@ -265,6 +265,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Expedia](https://lifeatexpediagroup.com/jobs/)  
 1.   [EY](https://careers.ey.com/)  
 1.   [EyeROV](https://www.eyerov.com/careers/)
+1.   [Epsilon](https://www.epsilon.com/us/careers)
     
 <p align="right">(<a href="#top">back to top</a>)</p>
 

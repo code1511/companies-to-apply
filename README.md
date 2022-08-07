@@ -86,7 +86,7 @@ This Repository contains the list of companies(more than FAANG) which you can jo
       </thead>
       <tbody>
          <tr>
-            <td align="center">376</td>
+            <td align="center">383</td>
          </tr>
       </tbody>
    </table>
@@ -157,6 +157,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.  [BigBasket](https://careers.bigbasket.com/)  
 1.  [BlackBuck](https://www.blackbuck.com/careers.php)
 1.  [Blackrock](https://careers.blackrock.com/)
+1.  [Block Inc](https://block.xyz/careers)
 1.  [Bloomberg LP](https://careers.bloomberg.com/job/search)
 1.  [BlueJeans](https://www.bluejeans.com/careers)
 1.  [Bluestacks](https://www.bluestacks.com/work-at-bluestacks.html)
@@ -184,6 +185,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Capillary](https://www.capillarytech.com/about-us/careers/)
 1.   [Capital One](https://www.capitalonecareers.com/)
 1.   [CarDekho](https://careers.cardekho.com/)
+1.   [Careem](https://www.careem.com/en-ae/careers/)
 1.   [CarWale](https://www.carwale.com/career/)
 1.   [Cashfree](https://www.cashfree.com/careers)
 1.   [Cimpress](https://cimpress.com/careers/)
@@ -237,18 +239,20 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Dhruva Space](https://angel.co/company/dhruvaspace)
 1.   [Dialpad](https://www.dialpad.com/careers/)
 1.   [Directi](https://careers.directi.com/)  
-1.   [Discord](https://discord.com/jobs)
-1.   [Discovery inc](https://jobs.discovery.com/careers-home/)  
-1.   [Disney](https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2)
-1.   [DoorDash](https://careers.doordash.com/)
-1.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
-1.   [DRDO](https://www.drdo.gov.in/careers)
-1.   [Dream11](https://www.dreamsports.group/careers)  
-1.   [Dropbox](https://www.dropbox.com/jobs)
-1.   [Druva](https://www.druva.com/about/careers/)  
-1.   [Dukaan](https://angel.co/company/dukaan-app/jobs)
-1.   [Dunzo](https://www.dunzo.com/careers#jobs) 
-1.   [DuPont](https://careers.dupont.com/us/en)    
+1.   [digit](https://digit.co/careers)   
+3.   [Discord](https://discord.com/jobs)
+4.   [Discovery inc](https://jobs.discovery.com/careers-home/)  
+5.   [Disney](https://jobs.disneycareers.com/location/india-jobs/391-28648/1269750/2)
+6.   [DoorDash](https://careers.doordash.com/)
+7.   [DP World](https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions)  
+8.   [DRDO](https://www.drdo.gov.in/careers)
+9.   [Dream11](https://www.dreamsports.group/careers) 
+10.   [droom](https://droom.in/career)       
+11.   [Dropbox](https://www.dropbox.com/jobs)
+12.   [Druva](https://www.druva.com/about/careers/)  
+13.   [Dukaan](https://angel.co/company/dukaan-app/jobs)
+14.   [Dunzo](https://www.dunzo.com/careers#jobs) 
+15.   [DuPont](https://careers.dupont.com/us/en)    
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -274,7 +278,6 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 <h2 id="F">F</h2>  
 
 1.   [F5](https://www.f5.com/company/careers/) 
-1.   [facebook](https://www.facebook.com/careers/jobs/) 
 1.   [factset](https://www.factset.com/careers)  
 1.   [FamPay](https://fampay.in/careers)
 1.   [Fidelity investments](https://jobs.fidelity.com/)  
@@ -331,8 +334,9 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [HealthAsyst](https://www.healthasyst.com/careers/)
 1.   [Healthify me](https://www.healthifyme.com/careers/)  
 1.   [HERE](https://www.here.com/careers)
+1.   [Hexagone](https://hexagon.com/about/careers)
 1.   [Hotstar](https://tech.hotstar.com/)
-1.   [Honeywell](https://tech.hotstar.com/)
+1.   [Honeywell](https://careers.honeywell.com/)
 1.   [HP](https://jobs.hp.com/)  
     
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -348,7 +352,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Indeed](https://in.indeed.com/cmp/Indeed)
 1.   [India Mart](https://careers.indiamart.com/)
 1.   [Infor](https://www.infor.com/nordics/about/careers)
-1.   [Informatica](https://informatica.gr8people.com/jobs)    
+1.   [Informatica](https://informatica.gr8people.com/jobs)
+1.   [Infospoke](http://www.infospoke.in/careers.html)    
 1.   [Inmobi](https://www.inmobi.com/company/careers/)  
 1.   [Innovaccer](https://innovaccer.com/careers/)  
 1.   [Intel](https://www.intel.com/content/www/us/en/jobs/jobs-at-intel.html)
@@ -413,18 +418,19 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Mastery](https://mastery.net/careers/)
 1.   [Mathworks](https://in.mathworks.com/company/jobs/opportunities.html)
 1.   [McKinsey](https://www.mckinsey.com/in/careers-in-india)
-1.   [Media.net](https://careers.media.net/)  
-1.   [Meesho](https://careers.meesho.com/)  
-1.   [Memory](https://memory.ai/jobs)
-1.   [Micron](https://micron.eightfold.ai/careers)
-1.   [Microsoft](https://careers.microsoft.com/us/en)        
-1.   [MindTickle](https://www.mindtickle.com/careers/)
-1.   [MobiKwik](https://mobikwik.recruiterbox.com/)  
-1.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
-1.   [Mount talent](https://careers.mounttalent.com/)
-1.   [MPL](https://mpl.darwinbox.in/ms/candidate/careers)   
-1.   [MTX](https://www.mtxb2b.com/s/career)    
-1.   [Myntra](https://careers.myntra.com/)  
+1.   [Media.net](https://careers.media.net/) 
+1.   [Meta](https://www.metacareers.com/)    
+3.   [Meesho](https://careers.meesho.com/)  
+4.   [Memory](https://memory.ai/jobs)
+5.   [Micron](https://micron.eightfold.ai/careers)
+6.   [Microsoft](https://careers.microsoft.com/us/en)        
+7.   [MindTickle](https://www.mindtickle.com/careers/)
+8.   [MobiKwik](https://mobikwik.recruiterbox.com/)  
+9.   [Morgan Stanley](https://www.morganstanley.com/people-opportunities/)  
+10.   [Mount talent](https://careers.mounttalent.com/)
+11.   [MPL](https://mpl.darwinbox.in/ms/candidate/careers)   
+12.   [MTX](https://www.mtxb2b.com/s/career)    
+13.   [Myntra](https://careers.myntra.com/)  
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -530,7 +536,7 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 
 1.   [Saavan](https://www.jiosaavn.com/corporate/jobs)  
 1.   [Sabre corporation](https://www.sabre.com/careers/)  
-1.   [Salesforce](https://www.salesforce.com/)  
+1.   [Salesforce](https://www.salesforce.com/company/careers/)  
 1.   [Samsung](https://www.samsung.com/in/about-us/careers/)  
 1.   [SAP](https://jobs.sap.com/)  
 1.   [SendinBlue](https://jobs.sendinblue.com/en)
@@ -593,7 +599,8 @@ PLEASE DON'T CHANGE THE NUMBERING. KEEP EVERYTHING STARTING WITH 1.
 1.   [Unicommerce](https://unicommerce.com/careers/)    
 1.   [Unisys](https://jobs.unisys.com/us/en)    
 1.   [Upgrad](https://www.upgrad.com/us/careers/)   
-1.   [Upstox](https://jobs.lever.co/upstox)      
+1.   [Upstox](https://jobs.lever.co/upstox)    
+1.   [Upwork](https://www.upwork.com/careers)  
 1.   [Urban company](https://careers.urbancompany.com/)     
 
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -721,7 +728,6 @@ Refer [rules](https://github.com/Kaustubh-Natuskar/companies-to-apply/blob/main/
 
 If you have any feedback or suggestions please reach out to maintainers.  
 * [Kaustubh Natuskar](https://www.linkedin.com/in/kaustubhnatuskar/)  
-* [Aayushi Singh](https://www.linkedin.com/in/aayushisingh1703/)
-* [Ayush Mishra](https://www.linkedin.com/in/ayush-b-m/)
+
 
 <div id="Bottom"></div>
